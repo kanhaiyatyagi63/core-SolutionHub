@@ -1,0 +1,18 @@
+2021-08-20 15:02:04.843 +05:30 [INF] Application Starting.
+2021-08-20 15:02:05.783 +05:30 [INF] Now listening on: https://localhost:5001
+2021-08-20 15:02:05.820 +05:30 [INF] Now listening on: http://localhost:5000
+2021-08-20 15:02:05.823 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2021-08-20 15:02:05.826 +05:30 [INF] Hosting environment: Development
+2021-08-20 15:02:05.828 +05:30 [INF] Content root path: C:\Users\kanhaya\Desktop\InternalSolutionHub\ST.SolutionHub\ST.SolutionHub
+2021-08-20 15:12:11.257 +05:30 [INF] Application Starting.
+2021-08-20 15:12:12.092 +05:30 [INF] Now listening on: https://localhost:5001
+2021-08-20 15:12:12.139 +05:30 [INF] Now listening on: http://localhost:5000
+2021-08-20 15:12:12.141 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2021-08-20 15:12:12.142 +05:30 [INF] Hosting environment: Development
+2021-08-20 15:12:12.144 +05:30 [INF] Content root path: C:\Users\kanhaya\Desktop\InternalSolutionHub\SolutionHub\ST.SolutionHub\ST.SolutionHub
+2021-08-20 15:48:52.187 +05:30 [INF] Application Starting.
+2021-08-20 15:48:53.294 +05:30 [INF] Now listening on: https://localhost:5001
+2021-08-20 15:48:53.301 +05:30 [INF] Now listening on: http://localhost:5000
+2021-08-20 15:48:53.303 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2021-08-20 15:48:53.304 +05:30 [INF] Hosting environment: Development
+2021-08-20 15:48:53.306 +05:30 [INF] Content root path: C:\Users\kanhaya\Desktop\InternalSolutionHub\SolutionHub\ST.SolutionHub\ST.SolutionHub

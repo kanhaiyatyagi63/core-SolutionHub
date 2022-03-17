@@ -1,0 +1,36 @@
+2021-08-22 17:20:16.512 +05:30 [INF] Application Starting.
+2021-08-22 17:20:18.605 +05:30 [INF] Now listening on: https://localhost:5001
+2021-08-22 17:20:18.620 +05:30 [INF] Now listening on: http://localhost:5000
+2021-08-22 17:20:18.622 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2021-08-22 17:20:18.624 +05:30 [INF] Hosting environment: Development
+2021-08-22 17:20:18.628 +05:30 [INF] Content root path: C:\Users\kanhaya\Desktop\InternalSolutionHub\SolutionHub\ST.SolutionHub\ST.SolutionHub
+2021-08-22 17:30:56.640 +05:30 [INF] Application Starting.
+2021-08-22 17:30:57.455 +05:30 [INF] Now listening on: https://localhost:5001
+2021-08-22 17:30:57.461 +05:30 [INF] Now listening on: http://localhost:5000
+2021-08-22 17:30:57.463 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2021-08-22 17:30:57.464 +05:30 [INF] Hosting environment: Development
+2021-08-22 17:30:57.465 +05:30 [INF] Content root path: C:\Users\kanhaya\Desktop\InternalSolutionHub\SolutionHub\ST.SolutionHub\ST.SolutionHub
+2021-08-22 17:33:39.662 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.Exception: Project does not exists
+   at ST.SolutionHub.Managers.ProjectManager.GetAsync(Int32 id) in C:\Users\kanhaya\Desktop\InternalSolutionHub\SolutionHub\ST.SolutionHub\ST.SolutionHub.Managers\ProjectManager.cs:line 35
+   at ST.SolutionHub.Controllers.ProjectController.Get(Int32 id) in C:\Users\kanhaya\Desktop\InternalSolutionHub\SolutionHub\ST.SolutionHub\ST.SolutionHub\Controllers\ProjectController.cs:line 41
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-08-22 18:03:21.537 +05:30 [INF] Application Starting.
+2021-08-22 18:03:23.018 +05:30 [INF] Now listening on: https://localhost:5001
+2021-08-22 18:03:23.025 +05:30 [INF] Now listening on: http://localhost:5000
+2021-08-22 18:03:23.027 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2021-08-22 18:03:23.029 +05:30 [INF] Hosting environment: Development
+2021-08-22 18:03:23.031 +05:30 [INF] Content root path: C:\Users\kanhaya\Desktop\InternalSolutionHub\SolutionHub\ST.SolutionHub\ST.SolutionHub
